@@ -14,7 +14,7 @@
   "author": "chaitanya Patil",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "xls-to-json-lc": "^0.3.4",
     "xlsx-to-json-lc": "^0.5.0"
   }
